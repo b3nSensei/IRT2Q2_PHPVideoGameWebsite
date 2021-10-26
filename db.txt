@@ -1,0 +1,12 @@
+Start Wamp;
+create db "vglib";
+select db then> Import data from > choose file > vglib.sql;
+
+Open browser and go to 
+	localhost/vglib
+
+Admin account is: admin@admin.com
+	password is: adminisawesome
+
+Test login is: test@test.test
+	password is: test
